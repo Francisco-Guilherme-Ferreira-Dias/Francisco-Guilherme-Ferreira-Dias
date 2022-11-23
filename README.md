@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **language C**
 
-- 📫 How to reach me **diasg9155@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guilherme-dias-946b22238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme-dias-946b22238" height="30" width="40" /></a>
