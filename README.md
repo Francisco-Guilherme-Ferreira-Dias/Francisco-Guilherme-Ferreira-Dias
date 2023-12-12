@@ -1,4 +1,4 @@
-<h1 align="center"> OLÁ , EU SOU  GUILHERME DIAS </h1>
+<h1 align="center"> Olá , Eu Sou  Guilherme Dias </h1>
 <h3 align="center"> Graduando em Ciência da Computação - UFC</h3>
 
 <h3 align="left">Connect with me:</h3>
