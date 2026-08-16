@@ -4,7 +4,7 @@ Estou aprendendo desenvolvimento com C# e construindo meu portfólio na prática
 
 ## 🔭 No que estou trabalhando agora
 
-Estou desenvolvendo o **[GeFinbeta](https://github.com/Francisco-Guilherme-Ferreira-Dias/GeFinbeta)**, um gerenciador de finanças pessoais. Começou como um exercício de CRUD em console, e o plano é fazer ele crescer até virar uma aplicação completa: API em ASP.NET Core, banco de dados com Entity Framework, e um front-end mostrando os gastos em gráficos.
+Estou desenvolvendo o **[GEFIN](https://github.com/Francisco-Guilherme-Ferreira-Dias/GEFIN---Gerenciador-de-Gastos)**, um gerenciador de finanças pessoais. Começou como um exercício de CRUD em console, e o plano é fazer ele crescer até virar uma aplicação completa: API em ASP.NET Core, banco de dados com Entity Framework, e um front-end mostrando os gastos em gráficos.
 
 ## 🛠️ Stack
 
@@ -26,5 +26,5 @@ Estou desenvolvendo o **[GeFinbeta](https://github.com/Francisco-Guilherme-Ferre
 
 ## 📌 Projetos
 
-- **[GeFinbeta](https://github.com/Francisco-Guilherme-Ferreira-Dias/GeFinbeta)** — gerenciador de finanças pessoais, em desenvolvimento
+- **[GEFIN](https://github.com/Francisco-Guilherme-Ferreira-Dias/GEFIN---Gerenciador-de-Gastos)** — gerenciador de finanças pessoais, em desenvolvimento
 - **[Exercicios-Csharp](https://github.com/Francisco-Guilherme-Ferreira-Dias/Exercicios-Csharp)** — exercícios de fixação de POO conforme vou avançando no curso.
